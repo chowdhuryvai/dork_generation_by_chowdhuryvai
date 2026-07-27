@@ -1,0 +1,2 @@
+No external modules needed!
+Python 3.7+ stdlib only (tkinter, urllib, json, html.parser)
