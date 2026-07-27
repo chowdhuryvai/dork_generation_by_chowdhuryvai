@@ -1,10 +1,9 @@
 """
-DorkGen - Google Dork Generator & Search Tool
+DorkGenaration - Google Dork Generator & Search Tool
 ==============================================
 DEVELOP BY : CHOWDHURY-VAI
 GITHUB     : https://github.com/chowdhuryvai
 
-Single-file tool - ZERO external modules, only Python stdlib.
 Just run: python dork_generation_by_chowdhuryvai.py
 """
 
